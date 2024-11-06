@@ -8,7 +8,7 @@
 ![Demonstração da Aplicação](./assets/desc.png)
 ![Demonstração da Aplicação](./assets/demo.png)
 
-O objetivo do projeto foi desenvolver uma java a finalidade de praticar a criação e implementação de interfaces, abstracts e outros conceitos de orientação a objetos.
+O objetivo do projeto foi desenvolver uma aplicação java a finalidade de praticar a criação e implementação de interfaces, abstracts e outros conceitos de orientação a objetos.
 
 ## 🛠 Tecnologias
 
